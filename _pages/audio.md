@@ -23,7 +23,7 @@ In this page, we introduce a few audio examples drawn from the test set of <a hr
 It is important to have in mind that the RandRVQ models are still random at inference. The results displayed here might not be the best results we could get from those models.
 
 ---
-# Audio compression reconstruction results
+# Experiments results
 
 ## Sample 1
 
