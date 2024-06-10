@@ -23,66 +23,31 @@ Welcome to the audio examples page.
 ---
 # Audio compression reconstruction results
 
-## Reconstructions
+## Sample 1
 
-These results are presented in the table 1a of the paper, and audio examples are shown below.
+> Source
+<audio controls>
+  <source src="audio/source_samples/sample_0.wav"/>
+</audio>
 
-> Reconstructions
-<html>
-  <table>
-    <thread>
-      <tr>
-        <th>
-          <!-- <center> Voice </center> -->
-        </th>
-        <th>
-          <center> Original </center>
-        </th>
-        <th>
-          <center> Baseline </center>
-        </th>
-        <th>
-          <center> RandRVQ1 </center>
-        </th>
-        <th>
-          <center> RandRVQ4 </center>
-        </th>
-        <th>
-          <center> RandRVQ5 </center>
-        </th>
-      </tr>
-    </thread>
-    <tbody>
-      <tr>
-        <th> <strong> Sample 1 </strong> </th>
-        <th>
-          <audio class="px-1" controls="" controlslist="nodownload">
-            <source src="audio/source_samples/sample_0.wav" type="audio/wav">
-          </audio>
-        </th>
-        <th>
-          <audio controls="">
-            <source src="audio/baseline_output_samples/sample_0.wav"/>
-          </audio>
-        </th>
-        <th>
-          <audio controls="">
-            <source src="audio/8192_1024_output_samples/sample_0.wav"/>
-          </audio>
-        </th>
-        <th>
-          <audio controls="">
-            <source src="audio/16384_512_output_samples/sample_0.wav"/>
-          </audio>
-        </th>
-        <th>
-          <audio controls="">
-            <source src="audio/16384_512_6rq_output_samples/sample_0.wav"/>
-          </audio>
-        </th>
-      </tr>
-    </tbody>
-  </table>
-</html>
+> Baseline
+<audio controls>
+  <source src="audio/baseline_output_samples/sample_0.wav"/>
+</audio>
+
+> RandRVQ1
+<audio controls>
+  <source src="audio/8192_1024_output_samples/sample_0.wav"/>
+</audio>
+
+> RandRVQ4
+<audio controls>
+  <source src="audio/16384_512_output_samples/sample_0.wav"/>
+</audio>
+
+> RandRVQ5
+<audio controls>
+  <source src="audio/16384_512_6rq_output_samples/sample_0.wav"/>
+</audio>
 <br/>
 
