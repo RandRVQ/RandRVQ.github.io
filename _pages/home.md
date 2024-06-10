@@ -11,7 +11,7 @@ header:
 excerpt: #"Using Random Codebooks for Audio Neural AutoEncoders"
 ---
 
-Welcome to this demo website, in which we display examples of reconstructions we obtained thanks to the model introduced in the paper "Using Random Codebooks for Audio Neural AutoEncoders", that we will present at EUSIPCO, in Lyon, in August 2024.
+Welcome to this demo website, in which we display examples of reconstructions we obtained thanks to the model introduced in the paper "Using Random Codebooks for Audio Neural AutoEncoders", that we will present at EUSIPCO, in Lyon, in August 2024. These excerpts are displayed in [Audio Examples](./audio.md).
 
 # Abstract
 
