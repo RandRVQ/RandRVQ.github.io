@@ -18,7 +18,7 @@ toc_sticky: true
 </html>
 
 
-Welcome to the audio examples page. 
+In this page, we introduce a few audio examples drawn from the test set of <a href="https://sigsep.github.io/datasets/musdb.html#musdb18-compressed-stems" target="_blank" rel="noopener noreferrer">MUSDB18</a>. These audio examples are compressed and reconstructed using 4 different models: Baseline (<a href="https://arxiv.org/pdf/2306.06546" target="_blank" rel="noopener noreferrer">DAC</a> trained on MUSDB18 only), RandRVQ1, RandRVQ4 and RandRVQ5.
 
 ---
 # Audio compression reconstruction results
